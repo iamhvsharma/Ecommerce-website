@@ -2,8 +2,14 @@
 
 item{
     width: 350px;
-    background-color: red;
+    /* background-color: red; */
 
+}
+
+.item img{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 
