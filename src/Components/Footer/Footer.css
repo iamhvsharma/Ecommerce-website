@@ -43,6 +43,15 @@
     background: #cfbbbb;
     border-radius: 50px;
     border: 1px solid #ebebeb;
+    cursor: pointer;
+    
+
+
+}
+
+.footer-icons-container:hover{
+    background-color: rgb(218, 89, 89);
+    
 }
 
 .footer-copyright{
